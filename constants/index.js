@@ -120,54 +120,55 @@ const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://www.instagram.com/anshul_kotwal/",
  },
  {
 	name: "X (Twitter)",
 	icon: "/images/x.png",
-	url: "#",
+	url: "https://x.com/Anshulkotwal12",
  },
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://www.facebook.com/anshul.kotwal.9/",
  },
 ];
 
 const allCocktails = [
- {
-	id: 1,
-	name: "Classic Mojito",
-	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
-	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
- },
- {
-	id: 2,
-	name: "Raspberry Mojito",
-	image: "/images/drink2.png",
-	title: "A Zesty Classic That Never Fails",
-	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
- },
- {
-	id: 3,
-	name: "Violet Breeze",
-	image: "/images/drink3.png",
-	title: "Simple Ingredients, Bold Flavor",
-	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
- },
- {
-	id: 4,
-	name: "Curacao Mojito",
-	image: "/images/drink4.png",
-	title: "Crafted With Care, Poured With Love",
-	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
- },
+  {
+    id: 1,
+    name: "Classic Mojito",
+    image: "/images/drink1.png",
+    title: "Cool, Crisp, and Timeless",
+    description:
+      "A refreshing fusion of mint, lime, and sparkling soda with a subtle rum kick—crafted to awaken your senses and quench your thirst in style.",
+  },
+  {
+    id: 2,
+    name: "Raspberry Mojito",
+    image: "/images/drink2.png",
+    title: "Fruity Twist on a Fresh Favorite",
+    description:
+      "Juicy raspberries meet the zing of lime and mint, stirred with white rum to create a vibrant drink that’s equal parts playful and bold.",
+  },
+  {
+    id: 3,
+    name: "Violet Breeze",
+    image: "/images/drink3.png",
+    title: "Elegant Aromas, Smooth Finish",
+    description:
+      "Infused with lavender and citrus notes, this drink delivers a floral breeze in every sip—light, fragrant, and surprisingly smooth.",
+  },
+  {
+    id: 4,
+    name: "Curacao Mojito",
+    image: "/images/drink4.png",
+    title: "Tropical Flair in Every Sip",
+    description:
+      "Bright blue curaçao blended with mint, lime, and rum creates a mojito that’s not just a drink—it’s an island vacation in a glass.",
+  },
 ];
+
 
 export {
  navLinks,

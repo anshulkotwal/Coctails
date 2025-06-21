@@ -16,10 +16,10 @@ const Contact = () => {
 	 
 	 timeline
 		.from(titleSplit.words, {
-		 opacity: 0, yPercent: 100, stagger: 0.02
+		 opacity: 0, yPercent: 100, stagger: 0.03
 	 })
 		.from('#contact h3, #contact p', {
-			opacity: 0, yPercent: 100, stagger: 0.02
+			opacity: 0, yPercent: 100, stagger: 0.03
 	 })
 		.to('#f-right-leaf', {
 		 y: '-50', duration: 1, ease: 'power1.inOut'
